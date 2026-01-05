@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(247, 196, 242);
+   margin: 0;
+  padding: 0;
+  font-family:fantasy;
+}
+
+ul li {
+list-style: none;
+}
+
+#list{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
